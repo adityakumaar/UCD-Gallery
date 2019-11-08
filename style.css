@@ -1711,6 +1711,7 @@ input:required {
 .ucd-portfolio-area {
 	position: relative;
 	z-index: 1;
+	/* background-color: #01c2f3; #00091c; */
 }
 
 .ucd-portfolio-area .container-fluid {
@@ -1774,7 +1775,7 @@ input:required {
 	position: absolute;
 	width: 0%;
 	height: 3px;
-	background-color: #3f5efb;
+	background-color: #00091c;
 	content: '';
 	bottom: -5px;
 	left: 0;
@@ -1829,16 +1830,16 @@ input:required {
 	width: 52px;
 	height: 52px;
 	border-radius: 50%;
-	background-color: #3f5efb;
+	background-color: #00091c;
 	text-align: center;
 	line-height: 52px;
 	font-size: 30px;
-	color: #ffffff;
+	color: #01c2f3;
 }
 
 .single-portfolio-content .hover-content a:hover,
 .single-portfolio-content .hover-content a:focus {
-	background-color: #000000;
+	background-color: #00091c;
 }
 
 .single-portfolio-content:hover img,
