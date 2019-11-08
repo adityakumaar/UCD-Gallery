@@ -139,7 +139,7 @@ img.mfp-img {
 
 button.mfp-close,
 button.mfp-arrow {
-	background: #00091c;
+	background: transparent;
 }
 
 .mfp-bottom-bar {
@@ -175,19 +175,19 @@ input:required {
 }
 
 .mfp-arrow-left::after {
-	border-right-color: transparent;
+	border-right-color: #01c2f3;
 }
 
 .mfp-arrow-left::before {
-	border-right-color: #ffffff;
+	border-right-color: #01c2f3;
 }
 
 .mfp-arrow-right::after {
-	border-left-color: transparent;
+	border-left-color: #01c2f3;
 }
 
 .mfp-arrow-right::before {
-	border-left-color: #ffffff;
+	border-left-color: #01c2f3;
 }
 
 /* + 02 Spacing CSS */
