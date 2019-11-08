@@ -128,7 +128,7 @@ ul li {
 .jarallax > .jarallax-img {
 	position: absolute;
 	object-fit: cover;
-	font-family: 'object-fit: cover';
+	font-family: "object-fit": cover;
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -147,7 +147,7 @@ ul li {
 	width: 100%;
 	top: 20px;
 	width: 30px;
-	background: #3f5efb;
+	background: #00091c;
 	height: 30px;
 	line-height: 30px;
 }
@@ -159,7 +159,7 @@ img.mfp-img {
 
 button.mfp-close,
 button.mfp-arrow {
-	background: #3f5efb;
+	background: #00091c;
 }
 
 .mfp-bottom-bar {
@@ -350,7 +350,7 @@ input:required {
 	padding-bottom: 0;
 }
 
-/* + 03.0 Preloader CSS */
+/* + 03.0 Preloader CSS 
 #preloader {
 	position: fixed;
 	width: 100%;
@@ -436,9 +436,9 @@ input:required {
 	40% {
 		box-shadow: 0 2.5em 0 0;
 	}
-}
+} */
 
-/* + 04.0 Heading CSS */
+/* + 04.0 Heading CSS 
 .section-heading {
 	position: relative;
 	z-index: 1;
@@ -466,8 +466,7 @@ input:required {
 .section-heading.white p,
 .section-heading.white h2 {
 	color: #ffffff;
-}
-
+} */
 /* :: 5.0 Backtotop CSS 
 #scrollUp {
   position: fixed;
@@ -495,7 +494,7 @@ input:required {
     background-color: #000000;
     color: #ffffff; } */
 
-/* + 05.0 Buttons CSS */
+/* + 05.0 Buttons CSS 
 .btn:focus {
 	box-shadow: none;
 }
@@ -554,9 +553,9 @@ input:required {
 	background-color: #3f5efb;
 	color: #ffffff;
 	font-weight: 500;
-}
+} */
 
-/* :: 06.0 Header CSS */
+/* :: 06.0 Header CSS 
 .header-area {
 	position: fixed;
 	z-index: 100;
@@ -565,7 +564,6 @@ input:required {
 	-o-transition-duration: 500ms;
 	transition-duration: 500ms;
 	background-color: #3f5efb;
-	/*transparent;*/
 }
 
 .classy-nav-container {
@@ -718,9 +716,9 @@ input:required {
 
 .classy-navbar-toggler .navbarToggler span {
 	background-color: #ffffff;
-}
+} */
 
-/* :: 07.0 Hero CSS */
+/* :: 07.0 Hero CSS 
 .welcome-area {
 	position: relative;
 	z-index: 1;
@@ -854,10 +852,10 @@ input:required {
 	color: #ffffff;
 	margin-bottom: 50px;
 	display: block;
-}
+} */
 
 
-/* :: 08.0 About CSS */
+/* :: 08.0 About CSS 
 .about-us-content h3 {
 	font-size: 40px;
 	display: block;
@@ -906,7 +904,7 @@ input:required {
 	position: absolute;
 	top: -38px;
 	left: 50%;
-	margin-left: -38px;
+	margin-left: -38px; #01c2f3; #00091c;
 }
 
 .events-content h4 {
@@ -942,9 +940,9 @@ input:required {
 .events-content:focus h4,
 .events-content:focus p {
 	color: #ffffff;
-}
+} */
 
-/* :: 08.1 Faculty Style*/
+/* :: 08.1 Faculty Style
 .faculty-part {
 	background-size: cover;
 	padding: 55px 0;
@@ -1046,9 +1044,9 @@ input:required {
 
 .main-section.team h6 {
 	margin-bottom: 40px;
-}
-
-/* :: 09.0 Breadcrumb CSS */
+} */
+ 
+/* :: 09.0 Breadcrumb CSS 
 .breadcrumb-area {
 	position: relative;
 	z-index: 1;
@@ -1181,9 +1179,9 @@ input:required {
 .breadcrumb-area.blog .breadcrumb-content .post-meta a:hover::after,
 .breadcrumb-area.blog .breadcrumb-content .post-meta a:focus::after {
 	color: #ffffff;
-}
+} */
 
-/* :: 10.0 Blog CSS */
+/* :: 10.0 Blog CSS 
 .blog-details-text {
 	position: relative;
 	z-index: 1;
@@ -1608,9 +1606,9 @@ input:required {
 .related-news-area .row .col-12 {
 	padding-right: 5px;
 	padding-left: 5px;
-}
+} */
 
-/* :: 11.0 Team CSS */
+/* :: 11.0 Team CSS 
 .team-content-area {
 	position: relative;
 	z-index: 1;
@@ -1705,7 +1703,7 @@ input:required {
 .team-content-area:focus .member-social-info a:hover,
 .team-content-area:focus .member-social-info a:focus {
 	color: #000000;
-}
+}*/
 
 /* :: 12.0 Gallery CSS */
 .ucd-portfolio-area {
@@ -1860,7 +1858,7 @@ input:required {
 	margin-top: -26px;
 }
 
-/* :: 13.0 Contact CSS */
+/* :: 13.0 Contact CSS 
 .ucd-contact-form .form-control {
 	-webkit-transition-duration: 500ms;
 	-o-transition-duration: 500ms;
@@ -1958,6 +1956,6 @@ input:required {
 .footer-content .social-info a:hover,
 .footer-content .social-info a:focus {
 	color: #3f5efb;
-}
+} */
 
 /*# sourceMappingURL=style.css.map */
